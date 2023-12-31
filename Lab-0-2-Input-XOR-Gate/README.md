@@ -1,1 +1,3 @@
-#2 Input XOR Gate
+# 2 Input XOR Gate
+
+
