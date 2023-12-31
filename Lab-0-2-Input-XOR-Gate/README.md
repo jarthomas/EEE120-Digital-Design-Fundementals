@@ -1,3 +1,3 @@
 # 2 Input XOR Gate
 
-![] (/Images/0-0-0%20png)
+Lab-0-2-Input-XOR-Gate/Images/0-0-0.png
